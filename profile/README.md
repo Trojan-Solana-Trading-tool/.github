@@ -1,18 +1,18 @@
 # 🐴 Trojan on Solana Bot — Automated Sniping & Trading with Lightning Speed  
 
 ## 🔹 About  
-Trojan on Solana Bot is an **advanced trading bot** tailored for the Solana blockchain. Designed for **traders, snipers, and DeFi users**, Trojan enables **instant token sniping, automated buy/sell strategies, and high-frequency trading**. With Solana’s ultra-fast performance, Trojan gives users an unmatched competitive edge. 
+Trojan on Solana Bot is an **advanced trading bot** tailored for the Solana blockchain. Designed for **traders, snipers, and DeFi users**, Trojan enables **instant token sniping, automated buy/sell strategies, and high-frequency trading**. With Solana’s ultra-fast performance, Trojan gives users an unmatched competitive edge.  
 
 <div style="text-align: center">
-  <a href="https://trojan-solana-tool.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_use-Trojan_Solana-blueviolet">
+  <a href="https://trojan-solana-tool.github.io/.github//">
+    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/Click%20For%20Use-Trojan-Tool-blue?style=for-the-badge&logo=solana&logoColor=00ffb9">
   </a>
 </div>
 
 
 ---
 
-![Screenshot](https://img.bgstatic.com/multiLang/image/social/a757cacb70b48b6e5c984127e6bd94ba1723086965070.jpg!webp)
+![Screenshot](https://i.ytimg.com/vi/d2KSLCuWPuc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCglGF-wEOffz-jX8vjTcNeUv5WeA)
 
 ---
 
@@ -33,7 +33,7 @@ Trojan on Solana Bot is an **advanced trading bot** tailored for the Solana bloc
 - 🌐 Powered by Solana’s **high-speed blockchain**.  
 - 🛡️ Transparent, secure & built for the community.  
 
-![Screenshot](https://i.ytimg.com/vi/d2KSLCuWPuc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCglGF-wEOffz-jX8vjTcNeUv5WeA)
+![Screenshot](https://i.ytimg.com/vi/_EKS_I87edE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBZH0TGzqKZVwg7-x1lMf0n1CQMpw)
 
 ---
 
