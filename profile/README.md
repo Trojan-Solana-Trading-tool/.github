@@ -5,7 +5,7 @@ Trojan on Solana Bot is an **advanced trading bot** tailored for the Solana bloc
 
 <div style="text-align: center">
   <a href="https://trojan-solana-tool.github.io/.github//">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/Click%20For%20Use-Trojan-Tool-blue?style=for-the-badge&logo=solana&logoColor=00ffb9">
+    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/Click%20For%20Use-Trojan_Tool-blue?style=for-the-badge&logo=solana&logoColor=00ffb9">
   </a>
 </div>
 
